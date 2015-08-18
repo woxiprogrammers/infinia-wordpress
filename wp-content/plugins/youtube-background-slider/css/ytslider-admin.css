@@ -1,0 +1,21 @@
+/*-- YTBG-SLIDER ADMIN STYLE --------------
+------------------------------------------*/
+#yts-admin-wrap{
+	width:550px;
+}
+#yts-admin-wrap table{
+	width:100%;
+}
+#yts-admin-wrap table td {
+	padding:5px;
+}
+#yts-admin-wrap table td:first-child{
+	width:200px;
+}
+#yts-admin-wrap  #poststuff{
+	min-width:100%;
+}
+#yts-admin-wrap  select {
+	padding: 3px;
+    width: 90px;
+}
