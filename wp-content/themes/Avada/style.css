@@ -1547,7 +1547,7 @@ fieldset {
   max-width: 1400px;
 }
 #main {
-  padding: 55px 10px 45px;
+  padding: 0px 10px 45px;
   background: #fff;
   clear: both;
 }
@@ -4877,6 +4877,7 @@ Table of Contents
 .post-content p {
   margin-top: 0;
   margin-bottom: 20px;
+
 }
 /* Blockquote */
 blockquote {
@@ -5096,6 +5097,7 @@ Table of Contents
   -moz-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
+background:none !important;
 }
 .fusion-header-backface {
   -webkit-backface-visibility: hidden;
@@ -5125,6 +5127,7 @@ Table of Contents
 }
 .fusion-logo img {
   width: auto;
+margin-top:4%;
 }
 .fusion-logo-2x {
   display: none;
@@ -5530,6 +5533,7 @@ body.side-header-right.rtl #side-header .login-box {
   list-style: none;
   margin: 0;
   padding: 0;
+margin-top: 0%;
 }
 .fusion-main-menu li {
   float: left;
@@ -11934,6 +11938,7 @@ button.fusion-button.button-3d:active {
 }
 .fusion-section-separator {
   position: relative;
+margin-top:5%;
 }
 .fusion-section-separator .divider-candy {
   z-index: 100;
@@ -13022,4 +13027,148 @@ table {
 .fusion-youtube.center-video .video-shortcode,
 .fusion-vimeo.center-video .video-shortcode {
   margin: 0 auto;
+}
+#main{padding-top:20px !important;}
+#main, #wrapper, .fusion-separator .icon-wrapper, body, html{background-color:#fff !important;}
+#side-header, .fusion-header, .layout-boxed-mode .side-header-wrapper{background:red; }
+.fusion-header-wrapper.fusion-is-sticky .fusion-header, .fusion-header-wrapper.fusion-is-sticky .fusion-secondary-main-menu{background-color:#000 !important;}
+.fusion-page-title-bar{display:none;}
+p{color:grey !important;}
+audio:-webkit-full-page-media, video:-webkit-full-page-media {width:150% !important;}
+video:-webkit-full-page-media {width:150% !important;}
+video{width:131% margin-left:-8%; margin-top: -8%;}
+.gra{
+ background-color:#1a3d4d;
+ filter:progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=#1a3d4d, endColorstr=#052afc);
+ background-image:-moz-linear-gradient(right, #1a3d4d 9%, #052afc 64%);
+ background-image:-webkit-linear-gradient(right, #1a3d4d 9%, #052afc 64%);
+ background-image:-ms-linear-gradient(right, #1a3d4d 9%, #052afc 64%);
+ background-image:linear-gradient(right, #1a3d4d 9%, #052afc 64%);
+ background-image:-o-linear-gradient(right, #1a3d4d 9%, #052afc 64%);
+ background-image:-webkit-gradient(linear, right bottom, left bottom, color-stop(9%,#1a3d4d), color-stop(64%,#052afc));}
+.fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
+h2{color:#c2c2c2 !important;}
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+    #video-background{margin-left: -13% !important;
+    margin-top: -31% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: -310% !important;
+    width: 100% !important;
+    margin-left: -13%;   
+}
+#mid{margin-top:0px !important;}
+a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
+   
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+    #video-background{
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: -310% !important;
+    width: 100% !important;
+    margin-left: -13%;   
+}
+#mid{margin-top:0px !important;}
+a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+}
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+     #video-background{
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: -310% !important;
+    width: 100% !important;
+    margin-left: -13%;   
+}
+#mid{margin-top:0px !important;}
+a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+    #video-background{width: 131% !important;
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: 136px !important;}
+#mid{margin-top:163px !important;}
+a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+}
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+    #video-background{width: 131% !important;
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: 136px !important;}
+#mid{margin-top:163px !important;}
+a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+h1{font-size:}
+}
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+     #video-background{width: 131% !important;
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: 136px !important;}
+#mid{margin-top:163px !important;}
+a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+}
+
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 1224px) {
+    #video-background{width: 131% !important;
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: 136px !important;}
+#mid{margin-top:163px !important;}
+a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+}
+
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1824px) {
+   #video-background{width: 131% !important;
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: 136px !important;}
+#mid{margin-top:163px !important;}
+a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+}
+
+/* iPhone 5 (portrait &amp; landscape)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+    #video-background{
+margin-left: -13% !important;
+margin-bottom: 22% !important;}
+#textdiv{    margin-top: -310% !important;
+    width: 100% !important;
+    margin-left: -13%;   
+}
+#mid{margin-top:0px !important;}
+a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
 }
