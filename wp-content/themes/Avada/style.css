@@ -13230,7 +13230,7 @@ audio:-webkit-full-page-media, video:-webkit-full-page-media {width:150% !import
 video:-webkit-full-page-media {width:150% !important;}
 video{width:131% margin-left:-8%; margin-top: -8%;}
 .gra{
- background-image: url(assets/images/Footer.png) !important; background-size:100% 100%;}
+ background-image: url(assets/images/Footer.png) !important; background-size:100% 100%; margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
 @media only screen
@@ -26408,7 +26408,7 @@ audio:-webkit-full-page-media, video:-webkit-full-page-media {width:150% !import
 video:-webkit-full-page-media {width:150% !important;}
 video{width:131% margin-left:-8%; margin-top: -8%;}
 .gra{
- background-image: url(assets/images/Footer.png) !important;}
+ background-image: url(assets/images/Footer.png) !important; margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
 @media only screen
@@ -39586,7 +39586,7 @@ audio:-webkit-full-page-media, video:-webkit-full-page-media {width:150% !import
 video:-webkit-full-page-media {width:150% !important;}
 video{width:131% margin-left:-8%; margin-top: -8%;}
 .gra{
- background-image: url(assets/images/Footer.png) !important;}
+ background-image: url(assets/images/Footer.png) !important;     margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
 @media only screen
@@ -52764,7 +52764,7 @@ audio:-webkit-full-page-media, video:-webkit-full-page-media {width:150% !import
 video:-webkit-full-page-media {width:150% !important;}
 video{width:131% margin-left:-8%; margin-top: -8%;}
 .gra{
- background-image: url(assets/images/Footer.png) !important;}
+ background-image: url(assets/images/Footer.png) !important;    margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
 @media only screen
@@ -54227,7 +54227,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 #digitalrightdiv{width:50% !important; float:left;}
 #digitalh1{color:#101E28 !important; font-weight:100;  margin: 5% 5% 3% 14%; font-family:'HelveticaNeue-UltraLight',Helvetica,Arial,sans-serif !important; font-size:48px; line-height:56px; letter-spacing:4px;}
 #digitalp{margin:0% 1% 2% 14%; line-height:28px; color:#5C646C !important; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
-#footergray{text-align:center; background-color:#E8EBEF ;width: 1824px; margin-left: -27%; margin-top: -8%; height: 590px;}
+#footergray{text-align:center; background-color:#E8EBEF ;width: 1824px; margin-left: -27%; margin-top: -8%; height: 590px; margin-bottom: -5%;}
 #footergraysub{text-align:center; color:#969696; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:20px; margin-bottom: 4%;}
 #footergrayemail{margin-left:27%; width:85% ; margin-bottom:10% ;}
 #footergrayemailsubdiv{float:left; width: 60%; margin-top: 6%; margin-left: -11%;}

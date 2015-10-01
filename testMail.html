@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<title>testMail</title>
+<!--<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>-->
+<!--Put the following in the <head>-->
+	<script type="text/javascript">
+	function validateEmail(email) {
+	    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+	    return re.test(email);
+	}
+	function testMail() {
+		var email = document.getElementById('emailAddress').value;
+//		alert(email);
+		if (email == "") {
+			alert("Email should not be empty");
+		} else {	
+			if (validateEmail(email)) {
+      
+				 var xmlhttp = new XMLHttpRequest();
+				 xmlhttp.onreadystatechange = function() {
+	        		    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        		        	console.log(xmlhttp.responseText);
+					alert("Mail Sent Successfully");
+					return true;
+		        	    }
+	        		}
+			        xmlhttp.open("GET", "http://infinia.theleanapps.com/testJquery.php?action=test&emailAddress=" + email, true);
+        			xmlhttp.send();
+			} else {
+				alert("Please check email format");
+				return false;
+			}
+		}
+	}
+	</script>
+</head>
+<body>
+<!--Put the following in the <body>-->
+	<form action="#"  class="js-ajax-php-json" method="post" accept-charset="utf-8">
+	<input type="text" id="emailAddress" name="emailAddress" value="" placeholder="Email Address" />
+<!--	<input type="text" name="favorite_restaurant" value="" placeholder="Favorite beverage" />
+	<select name="gender">
+	<option value="male">Male</option>
+	<option value="female">Female</option>
+	</select>-->
+	<input type="button" name="submit" value="Submit form" onclick="return testMail();" />
+	</form>
+	
+	<div class="the-return">
+	[HTML is replaced when successful.]
+	</div>
+</body>
+</html>

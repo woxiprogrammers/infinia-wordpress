@@ -248,3 +248,4 @@ if ( 'modern' == Avada()->settings->get( 'mobile_menu_design' ) ) {
 		?>
 		<div id="main" class="clearfix <?php echo $main_class; ?>" style="<?php echo $main_css; ?>">
 			<div class="fusion-row" style="<?php echo $row_css; ?>">
+
