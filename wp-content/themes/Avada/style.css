@@ -13363,8 +13363,8 @@ a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
 
 
 }
-.backg{background-image: url(assets/images/Productbackground.png); background-repeat: no-repeat;
-background-size: 100% 100%;}
+.backg{background-image: url(assets/images/Productbackground.png); background-repeat:repeat;
+background-size: 17% 100%;}
 .menu-text{font-size:24px !important;}
 .fusion-main-menu > ul > li > a{font-size:24px !important;}/*
 Theme Name: Avada
