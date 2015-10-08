@@ -52436,7 +52436,7 @@ input {
     height:37px;
     width:294px;
 }
-#about{ background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;}
+
 #comp{ background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;}
 #jobs{background-image: url(assets/images/jobs.png); background-size:100% 100%; background-repeat:no-repeat;}
 
@@ -52635,6 +52635,47 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 #colONLINEmaindivlogo{width: 17%;float: left;margin-top: 17%;margin-left: 32%;}
 #colONLINEmaindivh1{font-weight:500;float: left;margin-top: 18%;  font-size:20px !important; line-height:14px !important; color: rgb(92, 100, 108) !important;font-family:'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
 #colONLINEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px;margin-top:20px;}
+
+/* company */
+#about {
+    width: 121%;
+    height: 750px; margin-left: -10%; margin-top: -2%;
+    background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+}
+
+#about-inner {
+    float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+}
+
+#about-title {
+    color: #5C646C !important;line-height: 60px;
+    font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+    font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+}
+
+
+#about-desc {
+    opacity:1 !important; color: #5C646C !important;
+    font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+    font-size: 23px;
+    line-height: 45px; margin: 5% 3% 3%;
+}
+
+#about-comp {
+    margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+}
+
+#about-comp-desc-div {
+    width: 680px; margin-left: -24px;
+}
+
+#about-comp-desc {
+    color: #5C646C !important;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 23px;width: 110%;
+    line-height: 45px; margin: 12%;margin-top: 20%;
+}
+
 /***************MAIN IDS********************/
 
 
@@ -53242,6 +53283,47 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
 
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
+
 }
 
 
@@ -53441,6 +53523,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 @media screen  and (orientation:landscape) and (min-width : 768px) and (max-width : 1024px)  {
@@ -53644,6 +53766,47 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     a.video_pop_up img {
         margin-left: -10% !important;
         margin-top: 150% !important;
+    }
+
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
     }
 
 }
@@ -53857,6 +54020,47 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #midsec {
         height: 420px !important;
     }
+
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54056,6 +54260,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54255,6 +54499,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54454,6 +54738,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54653,6 +54977,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 
 }
 
