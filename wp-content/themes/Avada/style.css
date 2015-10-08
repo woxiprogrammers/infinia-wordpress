@@ -13233,136 +13233,7 @@ video{width:131% margin-left:-8%; margin-top: -8%;}
  background-image: url(assets/images/Footer.png) !important; background-size:100% 100%; margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-    #video-background{margin-left: -13% !important;
-    margin-top: -31% !important;
-margin-bottom: 22% !important;}
 
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-}
-
-
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-     #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : portrait) {
-     #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* Desktops and laptops ----------- */
-@media only screen
-and (min-width : 1224px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* Large screens ----------- */
-@media only screen
-and (min-width : 1824px) {
-   #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPhone 5 (portrait &amp; landscape)----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
 .backg{background-image: url(assets/images/Productbackground.png); background-repeat:repeat;
 background-size: 17% 100%;}
 .menu-text{font-size:24px !important;}
@@ -26411,136 +26282,7 @@ video{width:131% margin-left:-8%; margin-top: -8%;}
  background-image: url(assets/images/Footer.png) !important; margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-    #video-background{margin-left: -13% !important;
-    margin-top: -31% !important;
-margin-bottom: 22% !important;}
 
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-}
-
-
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-     #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : portrait) {
-     #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* Desktops and laptops ----------- */
-@media only screen
-and (min-width : 1224px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* Large screens ----------- */
-@media only screen
-and (min-width : 1824px) {
-   #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPhone 5 (portrait &amp; landscape)----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
 .backg{background-image: url(assets/images/Productbackground.png); background-repeat: no-repeat;
 background-size: 100% 100%;}
 .menu-text{font-size:24px !important;}
@@ -39589,136 +39331,7 @@ video{width:131% margin-left:-8%; margin-top: -8%;}
  background-image: url(assets/images/Footer.png) !important;     margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-    #video-background{margin-left: -13% !important;
-    margin-top: -31% !important;
-margin-bottom: 22% !important;}
 
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-}
-
-
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-     #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : portrait) {
-     #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* Desktops and laptops ----------- */
-@media only screen
-and (min-width : 1224px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* Large screens ----------- */
-@media only screen
-and (min-width : 1824px) {
-   #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPhone 5 (portrait &amp; landscape)----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
 .backg{background-image: url(assets/images/Productbackground.png); background-repeat: no-repeat;
 background-size: 100% 100%;}
 .menu-text{font-size:24px !important;}
@@ -52767,139 +52380,8 @@ video{width:131% margin-left:-8%; margin-top: -8%;}
  background-image: url(assets/images/Footer.png) !important;    margin-top: -0.8%;}
 .fusion-post-content h1, .post-content h1, .title h1{color:#c2c2c2 !important;}
 h2{color:#c2c2c2 !important;}
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-    #video-background{margin-left: -13% !important;
-    margin-top: -31% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
 
 
-}
-
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-}
-
-
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-     #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-    width: 100% !important;
-    margin-left: -13%;
-}
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPads (portrait) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : portrait) {
-     #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-}
-
-/* Desktops and laptops ----------- */
-@media only screen
-and (min-width : 1224px) {
-    #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* Large screens ----------- */
-@media only screen
-and (min-width : 1824px) {
-   #video-background{width: 131% !important;
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top: 289px !important;
-width: 125%;
-margin-left: -16%;}
-a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
-
-
-}
-
-/* iPhone 5 (portrait &amp; landscape)----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 568px) {
-    #video-background{
-margin-left: -13% !important;
-margin-bottom: 22% !important;}
-
-#mid{margin-top:0px !important;}
-a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
-
-}
 .backg{background-image: url(assets/images/Productbackground.png); background-repeat: no-repeat;
 background-size: 100% 100%;}
 .menu-text{font-size:14px !important; font-weight:300; line-height:17px !important;}
@@ -52954,7 +52436,7 @@ input {
     height:37px;
     width:294px;
 }
-#about{ background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;}
+
 #comp{ background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;}
 #jobs{background-image: url(assets/images/jobs.png); background-size:100% 100%; background-repeat:no-repeat;}
 
@@ -53153,6 +52635,47 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 #colONLINEmaindivlogo{width: 17%;float: left;margin-top: 17%;margin-left: 32%;}
 #colONLINEmaindivh1{font-weight:500;float: left;margin-top: 18%;  font-size:20px !important; line-height:14px !important; color: rgb(92, 100, 108) !important;font-family:'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
 #colONLINEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px;margin-top:20px;}
+
+/* company */
+#about {
+    width: 121%;
+    height: 750px; margin-left: -10%; margin-top: -2%;
+    background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+}
+
+#about-inner {
+    float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+}
+
+#about-title {
+    color: #5C646C !important;line-height: 60px;
+    font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+    font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+}
+
+
+#about-desc {
+    opacity:1 !important; color: #5C646C !important;
+    font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+    font-size: 23px;
+    line-height: 45px; margin: 5% 3% 3%;
+}
+
+#about-comp {
+    margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+}
+
+#about-comp-desc-div {
+    width: 680px; margin-left: -24px;
+}
+
+#about-comp-desc {
+    color: #5C646C !important;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    font-size: 23px;width: 110%;
+    line-height: 45px; margin: 12%;margin-top: 20%;
+}
+
 /***************MAIN IDS********************/
 
 
@@ -53282,7 +52805,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
         font-family: 'Blair_ITC', BlairITC, Arial, sans-serif !important; font-weight:500;
     }
     #pos-img{
-        width:80px;
+        width:75px;
     }
     #pos-text{
         text-align:center;
@@ -53473,14 +52996,14 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 #colBACKOFFICEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px;}
 #colONLINEmaindivlogo{width: 17%;float: left;margin-top: 17%;margin-left: 32%;}
 #colONLINEmaindivh1{font-weight:500;float: left;margin-top: 18%;  font-size:20px !important; line-height:14px !important; color: rgb(92, 100, 108) !important;font-family:'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
-#colONLINEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px;margin-top:20px;}
+#colONLINEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:16px; line-height:14px;margin-top:20px;}
 /* Styles */
 #forinput{}
     #pos-text-header{
         margin-bottom: 6.2%;
         margin-top: 7%; text-align:center;
         color: #5C646C !important;
-        font-size:20.56px;
+        font-size:24px;
         line-height: 14px;
         font-family: 'Blair_ITC', BlairITC, Arial, sans-serif !important; font-weight:500;
     }
@@ -53547,7 +53070,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #footermain{height:260px;}
     #footerimgdiv{width:50%; float:left; margin-top: 35px;}
     #footerrightdiv{width:50%; float:left; margin-top: 200px;}
-    #footerul{float:right; width: 88%;}
+    #footerul{float:right; width: 100%;}
     #footerli{float:right; margin-right: 50px; list-style:none;}
     #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
 
@@ -53594,23 +53117,23 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #easieroutdiv{ width: 1000%;margin-left: -28%;height: 566px; background-color:#E8EBEF;}
     #easiersubdiv{background-color:#E8EBEF; }
     #easiermaindiv{float: left;background-color: #E8EBEF;width: 6% !important; height: 566px; margin-left: 2%;}
-    #easierimage{margin-top: 7%;}
-    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -11% 5% 1% 17%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
-    #easierp{margin: 0% 0% 4% 17%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px;}
+    #easierimage{margin-top: 7%;width:11%;margin-left: 6%;}
+    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -11% 5% 1% 18%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
+    #easierp{margin: 0% 0% 4% 18%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px;}
     #easierrightdiv{width:6.5% !important; float:left;}
     #easierrightimage{width:140%; height:566px;}
     #betterouterdiv{width: 1000%; margin-left: -28%; height:556px;  margin-top: -3%;}
     #bettersubdiv{width:6% !important; float:left; margin-left:1.3%;}
-    #betterimage{width: 640px; margin-left: 14.6%;}
+    #betterimage{width: 640px; margin-left: 17.6%;}
     #betterrightdiv{width:6.3% !important; float:left; }
-    #betterrightimage{float: right; margin-top: 2%;}
+    #betterrightimage{float: right; margin-top: 4%;margin-right: 5%;width: 11%;}
     #betterrighth3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
     #betterp{ margin:0% 1% 4% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #moreouterdiv{width: 1000%; margin-left: -28%; height:459px; margin-top: -40px; background-color:#E8EBEF;}
     #moreinnerdiv{width:6% !important; float:left; background-color:#E8EBEF; height: 459px; margin-left: 2%;}
-    #morefirstimg{margin-top: 7%;}
-    #moreh3{color:#101E28 !important; font-weight:100; margin:  -11% 5% 1% 17%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; font-weight:200; line-height:56px; letter-spacing:4px; }
-    #morep{margin: 0% 0% 4% 17%; color:#5c646c !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px}
+    #morefirstimg{margin-top: 7%;margin-left: 7%;width: 11%;}
+    #moreh3{color:#101E28 !important; font-weight:100; margin:  -11% 5% 1% 18%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; font-weight:200; line-height:56px; letter-spacing:4px; }
+    #morep{margin: 0% 0% 4% 18%; color:#5c646c !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px}
     #morerightdiv{width:6.5% !important; float:left;}
     #morerightimgae{width: 140%; margin-left: 0px; height:459px;}
     #digitalouterdiv{ width: 125%; margin-left: -17%; height:313px; margin-top: -40px;}
@@ -53645,8 +53168,8 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #selleasymaindiv{margin-top:2% !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;}
     #selleasyfirstdiv{font-family: 'HelveticaNeue'  Helvetica, Arial, sans-serif !important; margin-left:-10%;}
     #selleasyinnerdiv{margin-top:-45%;position:absolute; z-index:99; text-align:center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; width:129% !important;}
-    #selleasyp{text-align: left; margin-left: 3%; margin-top:-76%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:34px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
-    #selleasyh3{text-align: left; margin-left: 15%; font-size:22px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
+    #selleasyp{text-align: left; margin-left: 8%; margin-top:-53%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:34px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
+    #selleasyh3{text-align: left; margin-left: 19%; font-size:22px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
     #emailouterdiv{margin-left:14%; width:100% ; margin-top:20%;}
     #emailinnerdiv{float:left; width: 293px; margin-left:7%;}
     #topbuttondiv{float:left;}
@@ -53746,8 +53269,8 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     /* footer */
     #footermain{height:260px;}
     #footerimgdiv{width:30%; float:left; margin-top: 35px;}
-    #footerrightdiv{width:70%; float:left; margin-top: 90px;}
-    #footerul{float:righ*/; width: 88%;}
+    #footerrightdiv{width:70%; float:left; margin-top: 200px;}
+    #footerul{float:right; width: 100%;}
     #footerli{float:right; margin-right: 35px; list-style:none;}
     #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
 
@@ -53759,6 +53282,47 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 
 }
 
@@ -53791,27 +53355,27 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #3colfirstdivh1{font-weight:500;  float: left; margin-top: 18%;  font-size:20px !important; line-height:14px !important;color: rgb(92, 100,108) !important; font-family: Blair_ITC, BlairITC, Arial, sans-serif !important;}
     #3colfirstdivsecondimage{height: 211px;}
     #3colfirstdivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px; }
-    #main{padding-left: 30px !important; padding-right: 30px !important;}
+    #main{padding-left: 30px !important; padding-right: 30px !important;padding-bottom:0px !important;}
     #easieroutdiv{ width: 1000%;margin-left: -28%;height: 566px; background-color:#E8EBEF;}
     #easiersubdiv{background-color:#E8EBEF; }
     #easiermaindiv{float: left;background-color: #E8EBEF;width: 6% !important; height: 566px; margin-left: 2%;}
-    #easierimage{margin-top: 7%;}
-    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -11% 5% 1% 17%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
-    #easierp{margin: 0% 0% 4% 17%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px;}
+    #easierimage{margin-top: 7%;margin-left: 8%;width: 11%;}
+    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -10% 5% 1% 19%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
+    #easierp{margin: 0% 0% 4% 19%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:11px; line-height:28px;}
     #easierrightdiv{width:6.5% !important; float:left;}
     #easierrightimage{width:140%; height:566px;}
-    #betterouterdiv{width: 1000%; margin-left: -28%; height:556px;  margin-top: -3%;}
+    #betterouterdiv{width: 1000%; margin-left: -28%; height:460px;  margin-top: -3%;}
     #bettersubdiv{width:6% !important; float:left; margin-left:1.3%;}
-    #betterimage{width: 640px; margin-left: 14.6%;}
+    #betterimage{width: 90%; margin-left: 20.6%;}
     #betterrightdiv{width:6.3% !important; float:left; }
-    #betterrightimage{float: right; margin-top: 2%;}
+    #betterrightimage{float: right; margin-top: 2%;margin-right: 7%;width: 11%;}
     #betterrighth3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
-    #betterp{ margin:0% 1% 4% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
+    #betterp{ margin:0% 1% 4% 14%; color:#5C646C !important; font-size:11px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #moreouterdiv{width: 1000%; margin-left: -28%; height:459px; margin-top: -40px; background-color:#E8EBEF;}
     #moreinnerdiv{width:6% !important; float:left; background-color:#E8EBEF; height: 459px; margin-left: 2%;}
-    #morefirstimg{margin-top: 7%;}
-    #moreh3{color:#101E28 !important; font-weight:100; margin:  -11% 5% 1% 17%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; font-weight:200; line-height:56px; letter-spacing:4px; }
-    #morep{margin: 0% 0% 4% 17%; color:#5c646c !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px}
+    #morefirstimg{margin-top: 7%;margin-left: 8%;width: 11%;}
+    #moreh3{color:#101E28 !important; font-weight:100; margin:  -10% 5% 1% 19%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; font-weight:200; line-height:56px; letter-spacing:4px; }
+    #morep{margin: 0% 0% 4% 19%; color:#5c646c !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:11px; line-height:28px}
     #morerightdiv{width:6.5% !important; float:left;}
     #morerightimgae{width: 140%; margin-left: 0px; height:459px;}
     #digitalouterdiv{ width: 125%; margin-left: -17%; height:313px; margin-top: -40px;}
@@ -53819,7 +53383,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #digitalimage{margin-left: 21%; width: 85% !important; margin-top: 5%;}
     #digitalrightdiv{width:50% !important; float:left;}
     #digitalh1{color:#101E28 !important; font-weight:100;  margin: 5% 5% 3% 14%; font-family:'HelveticaNeue-UltraLight',Helvetica,Arial,sans-serif !important; font-size:48px; line-height:56px; letter-spacing:4px;}
-    #digitalp{margin:0% 1% 2% 14%; line-height:28px; color:#5C646C !important; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+    #digitalp{margin:0% 1% 2% 14%; line-height:28px; color:#5C646C !important; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:11px;}
     #footergray{text-align:center; background-color:#E8EBEF ;width: 1824px; margin-left: -27%; margin-top: -8%; height: 590px; margin-bottom: -5%;}
     #footergraysub{text-align:center; color:#969696; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:20px; margin-bottom: 4%;}
     #footergrayemail{margin-left:27%; width:85% ; margin-bottom:10% ;}
@@ -53832,7 +53396,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #footernumberbuttonh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px; margin-top: 14px; }
     #footercallusdiv{margin-top: -7.5%; font-size: 20px; font-family: 'HelveticaNeue',Helvetica,Arial,sans-serif !important;
         font-weight: 100; line-height: 24px; color: #000 !important;margin-left:22%;}
-    #footercallusdivitalic{color: #000 !important; margin-left: -437px;}
+    #footercallusdivitalic{color: #000 !important; margin-left: -365px;}
     #mainfooterdiv{margin-left: -181% !important; width: 1000% !important;margin-top: -20px; height: 250px;}
     #mainfootersubdiv{width:25% !important;}
     #mainfooterlogo{margin-left:70%;}
@@ -53845,22 +53409,22 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #mainfootermenulia{text-decoration:none; color:#fff;}
     #selleasymaindiv{margin-top:2% !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;}
     #selleasyfirstdiv{font-family: 'HelveticaNeue'  Helvetica, Arial, sans-serif !important; margin-left:-10%;}
-    #selleasyinnerdiv{margin-top:-45%;position:absolute; z-index:99; text-align:center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; width:129% !important;}
-    #selleasyp{text-align: left; margin-left: 3%; margin-top:-53%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:40px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
-    #selleasyh3{text-align: left; margin-left: 20%; font-size:24px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
+    #selleasyinnerdiv{margin-top:-75%;position:absolute; z-index:99; text-align:center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; width:129% !important;}
+    #selleasyp{text-align: left; margin-left: 3%; margin-top:-53%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:34px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
+    #selleasyh3{text-align: left; margin-left: 15%; font-size:24px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
     #emailouterdiv{margin-left:14%; width:100% ; margin-top:20%;}
     #emailinnerdiv{float:left; width: 293px; margin-left:7%;}
     #topbuttondiv{float:left;}
     #topbutton{background-color: #B8E986;width: 237px; margin-left: -3%; height: 37px; border-radius: 5px;  border:0;}
     #topbuttonh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px; margin-top: 14px;}
     #topphonenumberdiv{margin-top:12%; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;}
-    #topphonenumberh3{margin-left: -5%; font-size:20px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-weight:100;}
+    #topphonenumberh3{margin-left: 8%; font-size:20px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-weight:100;}
     #topphonenumberitalic{margin-top:15px !important; line-height: 50px !important;}
-    #topphone{background-color: #B8E986;width: 301px;height: 37px; border-radius: 5px; margin-left:-5%; border:0; margin-top:-12px;}
+    #topphone{background-color: #B8E986;width: 301px;height: 37px; border-radius: 5px; margin-left:8%; border:0; margin-top:-12px;}
     #topphoneh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px !important; margin-top: 14px;}
     #playbuttondiv{margin-top: 22.5%; margin-left: 47%; height:75px !important;}
-    #sellinstorediv{background-color:#E8EBEF; width: 1000%;margin-left: -136%; height:300px;}
-    #sellinstoreh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: -4% !important;font-size: 50px; margin-left: -62.2%;line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
+    #sellinstorediv{background-color:#E8EBEF; width: 1000%;margin-left: -136%; height:225px;margin-top:18%}
+    #sellinstoreh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: -4% !important;font-size: 40px !important; margin-left: -63%;line-height: 43px!important; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #featurediv{background-color:#E8EBEF; width: 1000%; margin-left: -182%;     margin-top: -20%;height: 300px;  font-family: 'HelveticaNeue-CondensedBold ', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #featuredivh1{text-align:center; color:#5c646c !important; margin-top: 2% !important;font-size:50px;    margin-left: -53.5%;
         line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900; font-stretch: condensed !important;}
@@ -53918,7 +53482,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     }
     #footercallbutton {
         background-color: #B8E986;
-        width: 237px;
+        width: 196px;
         height: 37px;
         margin-left: -382%;
         margin-top: 93.1%;
@@ -53931,7 +53495,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
         height: 37px;
         margin-top: 20%;
         border-radius: 5px;
-        margin-left: -80%;
+        margin-left: -82%;
         border: 0px none;
     }
     #footercallusdiv {
@@ -53945,10 +53509,10 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
     /* footer */
     #footermain{height:260px;}
-    #footerimgdiv{width:50%; float:left; margin-top: 35px;}
-    #footerrightdiv{width:50%; float:left; margin-top: 200px;}
-    #footerul{float:right; width: 88%;}
-    #footerli{float:right; margin-right: 50px; list-style:none;}
+    #footerimgdiv{width:40%; float:left; margin-top: 35px;}
+    #footerrightdiv{width:60%; float:left; margin-top: 200px;}
+    #footerul{float:right; width: 100%;}
+    #footerli{float:right; margin-right: 30px; list-style:none;}
     #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
 
     /* enterprise */
@@ -53959,6 +53523,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 @media screen  and (orientation:landscape) and (min-width : 768px) and (max-width : 1024px)  {
@@ -53989,27 +53593,27 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #3colfirstdivh1{font-weight:500;  float: left; margin-top: 18%;  font-size:20px !important; line-height:14px !important;color: rgb(92, 100,108) !important; font-family: Blair_ITC, BlairITC, Arial, sans-serif !important;}
     #3colfirstdivsecondimage{height: 211px;}
     #3colfirstdivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px; }
-    #main{padding-left: 30px !important; padding-right: 30px !important;}
+    #main{padding-left: 30px !important; padding-right: 30px !important; padding-bottom: 0px !important;}
     #easieroutdiv{ width: 1000%;margin-left: -28%;height: 566px; background-color:#E8EBEF;}
     #easiersubdiv{background-color:#E8EBEF; }
     #easiermaindiv{float: left;background-color: #E8EBEF;width: 6% !important; height: 566px; margin-left: 2%;}
-    #easierimage{margin-top: 7%;}
-    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -11% 5% 1% 17%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
-    #easierp{margin: 0% 0% 4% 17%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px;}
+    #easierimage{margin-top: 7%;margin-left: 8%;width: 11%;}
+    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -10% 5% 1% 19%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
+    #easierp{margin: 0% 0% 4% 19%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:11px; line-height:28px;}
     #easierrightdiv{width:6.5% !important; float:left;}
     #easierrightimage{width:140%; height:566px;}
-    #betterouterdiv{width: 1000%; margin-left: -28%; height:556px;  margin-top: -3%;}
+    #betterouterdiv{width: 1000%; margin-left: -28%; height:460px;  margin-top: -3%;}
     #bettersubdiv{width:6% !important; float:left; margin-left:1.3%;}
-    #betterimage{width: 640px; margin-left: 14.6%;}
+    #betterimage{width: 90%; margin-left: 20.6%;}
     #betterrightdiv{width:6.3% !important; float:left; }
-    #betterrightimage{float: right; margin-top: 2%;}
+    #betterrightimage{float: right; margin-top: 5%;margin-right: 7%;width: 11%;}
     #betterrighth3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
-    #betterp{ margin:0% 1% 4% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
+    #betterp{ margin:0% 1% 4% 14%; color:#5C646C !important; font-size:11px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #moreouterdiv{width: 1000%; margin-left: -28%; height:459px; margin-top: -40px; background-color:#E8EBEF;}
     #moreinnerdiv{width:6% !important; float:left; background-color:#E8EBEF; height: 459px; margin-left: 2%;}
-    #morefirstimg{margin-top: 7%;}
+    #morefirstimg{margin-top: 7%;magin-left:7%;width:11%;}
     #moreh3{color:#101E28 !important; font-weight:100; margin:  -11% 5% 1% 17%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; font-weight:200; line-height:56px; letter-spacing:4px; }
-    #morep{margin: 0% 0% 4% 17%; color:#5c646c !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px}
+    #morep{margin: 0% 0% 4% 17%; color:#5c646c !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:11px; line-height:28px}
     #morerightdiv{width:6.5% !important; float:left;}
     #morerightimgae{width: 140%; margin-left: 0px; height:459px;}
     #digitalouterdiv{ width: 125%; margin-left: -17%; height:313px; margin-top: -40px;}
@@ -54017,7 +53621,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #digitalimage{margin-left: 21%; width: 85% !important; margin-top: 5%;}
     #digitalrightdiv{width:50% !important; float:left;}
     #digitalh1{color:#101E28 !important; font-weight:100;  margin: 5% 5% 3% 14%; font-family:'HelveticaNeue-UltraLight',Helvetica,Arial,sans-serif !important; font-size:48px; line-height:56px; letter-spacing:4px;}
-    #digitalp{margin:0% 1% 2% 14%; line-height:28px; color:#5C646C !important; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+    #digitalp{margin:0% 1% 2% 14%; line-height:28px; color:#5C646C !important; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:11px;}
     #footergray{text-align:center; background-color:#E8EBEF ;width: 1824px; margin-left: -27%; margin-top: -8%; height: 590px; margin-bottom: -5%;}
     #footergraysub{text-align:center; color:#969696; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:20px; margin-bottom: 4%;}
     #footergrayemail{margin-left:27%; width:85% ; margin-bottom:10% ;}
@@ -54044,10 +53648,10 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #selleasymaindiv{margin-top:2% !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;}
     #selleasyfirstdiv{font-family: 'HelveticaNeue'  Helvetica, Arial, sans-serif !important; margin-left:-10%;}
     #selleasyinnerdiv{margin-top:-45%;position:absolute; z-index:99; text-align:center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; width:129% !important;}
-    #selleasyp{text-align: left; margin-left: 3%; margin-top:-76%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:34px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
+    #selleasyp{text-align: left; margin-left: 3%; margin-top:-60%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:34px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
     #selleasyh3{text-align: left; margin-left: 15%; font-size:22px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
     #emailouterdiv{margin-left:14%; width:100% ; margin-top:20%;}
-    #emailinnerdiv{float:left; width: 293px; margin-left:7%;}
+    #emailinnerdiv{float:left; width: 293px; margin-left:5%;}
     #topbuttondiv{float:left;}
     #topbutton{background-color: #B8E986;width: 237px; margin-left: -3%; height: 37px; border-radius: 5px;  border:0;}
     #topbuttonh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px; margin-top: 14px;}
@@ -54057,8 +53661,8 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #topphone{background-color: #B8E986;width: 301px;height: 37px; border-radius: 5px; margin-left:-5%; border:0; margin-top:-12px;}
     #topphoneh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px !important; margin-top: 14px;}
     #playbuttondiv{margin-top: 22.5%; margin-left: 47%; height:75px !important;}
-    #sellinstorediv{background-color:#E8EBEF; width: 1000%;margin-left: -136%; height:300px;}
-    #sellinstoreh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: -4% !important;font-size: 50px; margin-left: -62.2%;line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
+    #sellinstorediv{background-color:#E8EBEF; width: 1000%;margin-left: -136%; height:200px;}
+    #sellinstoreh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: -4% !important;font-size: 36px !important; margin-left: -62.2%;line-height: 38px !important; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #featurediv{background-color:#E8EBEF; width: 1000%; margin-left: -182%;     margin-top: -20%;height: 300px;  font-family: 'HelveticaNeue-CondensedBold ', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #featuredivh1{text-align:center; color:#5c646c !important; margin-top: 2% !important;font-size:50px;    margin-left: -53.5%;
         line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900; font-stretch: condensed !important;}
@@ -54117,7 +53721,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     }
     #footercallbutton {
         background-color: #B8E986;
-        width: 237px;
+        width: 195px;
         height: 37px;
         margin-left: -382%;
         margin-top: 93.1%;
@@ -54144,9 +53748,9 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
    /* footer */
     #footermain{height:260px;}
-    #footerimgdiv{width:30%; float:left; margin-top: 35px;}
-    #footerrightdiv{width:70%; float:left; margin-top: 90px;}
-    #footerul{float:righ*/; width: 88%;}
+    #footerimgdiv{width:40%; float:left; margin-top: 70px;}
+    #footerrightdiv{width:60%; float:left; margin-top: 175px;}
+    #footerul{float:right; width: 100%;}
     #footerli{float:right; margin-right: 35px; list-style:none;}
     #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
 
@@ -54154,10 +53758,56 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #entergraydiv{background-color:#E8EBEF;width: 1000%;margin-left: -183%; height:350px; margin-top: -2.72%;}
     #entergraydivh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: 0% !important;font-size:50px; margin-left: -53.2%; line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #enterseconddiv{ width: 125%; margin-left: -17%; height:556px; }
-    #enterimg{width: 640px; margin-left: 12.6%;}
+    #enterimg{width: 90%; margin-left: 18.6%;}
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
-    #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
-    #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+    #enterp1{margin:0% 7% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
+    #enterp{line-height:28px; margin:0% 8% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    a.video_pop_up img {
+        margin-left: -10% !important;
+        margin-top: 150% !important;
+    }
+
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 
 }
 
@@ -54190,14 +53840,14 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #3colfirstdivh1{font-weight:500;  float: left; margin-top: 18%;  font-size:20px !important; line-height:14px !important;color: rgb(92, 100,108) !important; font-family: Blair_ITC, BlairITC, Arial, sans-serif !important;}
     #3colfirstdivsecondimage{height: 211px;}
     #3colfirstdivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px; }
-    #main{padding-left: 30px !important; padding-right: 30px !important;}
+    #main{padding-left: 30px !important; padding-right: 30px !important; padding-bottom: 0px !important; }
     #easieroutdiv{ width: 1000%;margin-left: -28%;height: 566px; background-color:#E8EBEF;}
     #easiersubdiv{background-color:#E8EBEF; }
-    #easiermaindiv{float: left;background-color: #E8EBEF;width: 6% !important; height: 566px; margin-left: 2%;}
-    #easierimage{margin-top: 7%;}
-    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -11% 5% 1% 17%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
-    #easierp{margin: 0% 0% 4% 17%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px;}
-    #easierrightdiv{width:6.5% !important; float:left;}
+    #easiermaindiv{float: left;background-color: #E8EBEF;width: 10% !important; height: 475px; margin-left: 2%;}
+    #easierimage{margin-top: 7%;margin-left:7%; width:11%}
+    #easierh1{color:#101E28 !important; letter-spacing:4px; margin:  -9% 5% 1% 24%; font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200;}
+    #easierp{margin: 0% 0% 4% 24%; color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:28px;}
+    #easierrightdiv{width:13.5% !important; float:left;clear:both}
     #easierrightimage{width:140%; height:566px;}
     #betterouterdiv{width: 1000%; margin-left: -28%; height:556px;  margin-top: -3%;}
     #bettersubdiv{width:6% !important; float:left; margin-left:1.3%;}
@@ -54231,7 +53881,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #footernumberbuttonh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px; margin-top: 14px; }
     #footercallusdiv{margin-top: -7.5%; font-size: 20px; font-family: 'HelveticaNeue',Helvetica,Arial,sans-serif !important;
         font-weight: 100; line-height: 24px; color: #000 !important;margin-left:22%;}
-    #footercallusdivitalic{color: #000 !important; margin-left: -437px;}
+    #footercallusdivitalic{color: #000 !important; margin-left: -343px;}
     #mainfooterdiv{margin-left: -181% !important; width: 1000% !important;margin-top: -20px; height: 250px;}
     #mainfootersubdiv{width:25% !important;}
     #mainfooterlogo{margin-left:70%;}
@@ -54245,12 +53895,12 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #selleasymaindiv{margin-top:2% !important; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;}
     #selleasyfirstdiv{font-family: 'HelveticaNeue'  Helvetica, Arial, sans-serif !important; margin-left:-10%;}
     #selleasyinnerdiv{margin-top:-45%;position:absolute; z-index:99; text-align:center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; width:129% !important;}
-    #selleasyp{text-align: left; margin-left: 3%; margin-top:-53%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:40px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
-    #selleasyh3{text-align: left; margin-left: 20%; font-size:24px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
+    #selleasyp{text-align: left; margin-left: 9%; margin-top:-43%; color:#fff !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-size:28px; font-weight:500; letter-spacing: 2.2px;line-height: 27px;}
+    #selleasyh3{text-align: left; margin-left: 16%; font-size:20px !important; line-height: 28px; font-weight: 200; letter-spacing:1.29px;  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;}
     #emailouterdiv{margin-left:14%; width:100% ; margin-top:20%;}
     #emailinnerdiv{float:left; width: 293px; margin-left:7%;}
     #topbuttondiv{float:left;}
-    #topbutton{background-color: #B8E986;width: 237px; margin-left: -3%; height: 37px; border-radius: 5px;  border:0;}
+    #topbutton{background-color: #B8E986;width: 237px; margin-left: -44%; height: 37px; border-radius: 5px;  border:0;}
     #topbuttonh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px; margin-top: 14px;}
     #topphonenumberdiv{margin-top:12%; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;}
     #topphonenumberh3{margin-left: -5%; font-size:20px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-weight:100;}
@@ -54259,22 +53909,23 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #topphoneh3{color:#101E28 !important; font-weight: 300; font-size:16px; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:7px !important; margin-top: 14px;}
     #playbuttondiv{margin-top: 22.5%; margin-left: 47%; height:75px !important;}
     #sellinstorediv{background-color:#E8EBEF; width: 1000%;margin-left: -136%; height:300px;}
-    #sellinstoreh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: -4% !important;font-size: 50px; margin-left: -62.2%;line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
+    #sellinstoreh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: -4% !important;font-size: 35px !important; margin-left: -62.2%;line-height: 50px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #featurediv{background-color:#E8EBEF; width: 1000%; margin-left: -182%;     margin-top: -20%;height: 300px;  font-family: 'HelveticaNeue-CondensedBold ', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #featuredivh1{text-align:center; color:#5c646c !important; margin-top: 2% !important;font-size:50px;    margin-left: -53.5%;
         line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900; font-stretch: condensed !important;}
     #colPOSmaindiv{margin-top: 32.5%;}
     #colPOSmaindivlogo{width: 17%; float: left;margin-top: 17%; margin-left: 32%;}
-    #colPOSmaindivh1{ font-weight:500;  float: left; margin-top: 18%;  font-size:20px !important; line-height:14px !important;     color: rgb(92, 100, 108) !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
-    #colPOSmaindivmainimage{height: 211px;}
+    #colPOSmaindivh1{ font-weight:500;  float: left; margin-top: 18%;  font-size:15px !important; line-height:14px !important;     color: rgb(92, 100, 108) !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
+    #colPOSmaindivmainimage{height: 164px;}
     #colPOSmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px;}
     #colBACKOFFICEmaindiv{margin-top: 32.5%;}
     #colBACKOFFICEmaindivlogo{width: 17%; float: left; margin-top: 17%; margin-left: 15%;}
-    #colBACKOFFICEmaindivh1{float: left; margin-top: 18%;  font-size:20px !important; line-height:14px !important;     color: rgb(92, 100, 108) !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-weight:500;}
+    #colBACKOFFICEmaindivh1{float: left; margin-top: 18%;  font-size:15px !important; line-height:14px !important;     color: rgb(92, 100, 108) !important; font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important; font-weight:500;}
     #colBACKOFFICEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px;}
     #colONLINEmaindivlogo{width: 17%;float: left;margin-top: 17%;margin-left: 32%;}
-    #colONLINEmaindivh1{font-weight:500;float: left;margin-top: 18%;  font-size:20px !important; line-height:14px !important; color: rgb(92, 100, 108) !important;font-family:'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
+    #colONLINEmaindivh1{font-weight:500;float: left;margin-top: 18%;  font-size:15px !important; line-height:14px !important; color: rgb(92, 100, 108) !important;font-family:'BlairITC_Medium', BlairITC, Arial, sans-serif !important;}
     #colONLINEmaindivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px;margin-top:20px;}
+
     /* Styles */
     #pos-text-header{
         margin-bottom: 6.2%;
@@ -54317,7 +53968,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     }
     #footercallbutton {
         background-color: #B8E986;
-        width: 237px;
+        width: 144px;
         height: 37px;
         margin-left: -382%;
         margin-top: 93.1%;
@@ -54330,7 +53981,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
         height: 37px;
         margin-top: 20%;
         border-radius: 5px;
-        margin-left: -80%;
+        margin-left: -86%;
         border: 0px none;
     }
     #footercallusdiv {
@@ -54344,20 +53995,72 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
     /* footer */
     #footermain{height:260px;}
-    #footerimgdiv{width:50%; float:left; margin-top: 35px;}
-    #footerrightdiv{width:50%; float:left; margin-top: 200px;}
-    #footerul{float:right; width: 88%;}
-    #footerli{float:right; margin-right: 50px; list-style:none;}
+    #footerimgdiv{width:40%; float:left; margin-top: 70px;}
+    #footerrightdiv{width:60%; float:left; margin-top: 125px;}
+    #footerul{float:right; width: 100%;}
+    #footerli{float:right; margin-right: 20px; list-style:none;}
     #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
 
     /* enterprise */
-    #entergraydiv{background-color:#E8EBEF;width: 1000%;margin-left: -183%; height:350px; margin-top: -2.72%;}
-    #entergraydivh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: 0% !important;font-size:50px; margin-left: -53.2%; line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
+    #entergraydiv{background-color:#E8EBEF;width: 1000%;margin-left: -183%; height:250px; margin-top: -4.28%;}
+    #entergraydivh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: 0% !important;font-size:32px !important; margin-left: -53.2%; line-height: 40px !important; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #enterseconddiv{ width: 125%; margin-left: -17%; height:556px; }
     #enterimg{width: 640px; margin-left: 12.6%;}
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
-    #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+    #enterp{line-height:28px; margin:0% 5% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+
+    /* video */
+    a.video_pop_up img {
+        margin-top: 500% !important;
+    }
+
+
+    #midsec {
+        height: 420px !important;
+    }
+
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54389,7 +54092,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #3colfirstdivh1{font-weight:500;  float: left; margin-top: 18%;  font-size:20px !important; line-height:14px !important;color: rgb(92, 100,108) !important; font-family: Blair_ITC, BlairITC, Arial, sans-serif !important;}
     #3colfirstdivsecondimage{height: 211px;}
     #3colfirstdivp{color:#969BA0 !important; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px; line-height:16px; margin-top:20px; }
-    #main{padding-left: 30px !important; padding-right: 30px !important;}
+    #main{padding-left: 30px !important; padding-right: 30px !important; padding-bottom: 0px !important;}
     #easieroutdiv{ width: 1000%;margin-left: -28%;height: 566px; background-color:#E8EBEF;}
     #easiersubdiv{background-color:#E8EBEF; }
     #easiermaindiv{float: left;background-color: #E8EBEF;width: 6% !important; height: 566px; margin-left: 2%;}
@@ -54543,10 +54246,10 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
     /* footer */
     #footermain{height:260px;}
-    #footerimgdiv{width:30%; float:left; margin-top: 35px;}
-    #footerrightdiv{width:70%; float:left; margin-top: 90px;}
-    #footerul{float:right; width: 88%;}
-    #footerli{float:right; margin-right: 35px; list-style:none;}
+    #footerimgdiv{width:40%; float:left; margin-top: 70px;}
+    #footerrightdiv{width:60%; float:left; margin-top: 125px;}
+    #footerul{float:right; width: 100%;}
+    #footerli{float:right; margin-right: 25px; list-style:none;}
     #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
 
     /* enterprise */
@@ -54557,6 +54260,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54756,6 +54499,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -54955,6 +54738,46 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
+
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
 }
 
 
@@ -55140,23 +54963,193 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
     /* footer */
     #footermain{height:260px;}
-    #footerimgdiv{width:30%; float:left; margin-top: 35px;}
-    #footerrightdiv{width:70%; float:left; margin-top: 90px;}
-    #footerul{float:right; width: 88%;}
-    #footerli{float:right; margin-right: 30px; list-style:none;}
-    #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:14px; text-decoration:none;}
+    #footerimgdiv{width:100%; float:left; margin-top: 35px;margin-left: 55px;}
+    #footerrightdiv{width:100%; float:left; margin-top: 20px;}
+    #footerul{float:right; width: 120%;}
+    #footerli{float:right; margin-right: 10px; list-style:none;}
+    #footerlia{font-weight: 300; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important; line-height: 17px; color:#fff !important; font-size:12px; text-decoration:none;}
 
     /* enterprise */
-    #entergraydiv{background-color:#E8EBEF;width: 1000%;margin-left: -183%; height:350px; margin-top: -2.72%;}
-    #entergraydivh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: 0% !important;font-size:50px; margin-left: -53.2%; line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
+    #entergraydiv{background-color:#E8EBEF;width: 1000%;margin-left: -183%; height:165px; margin-top: -2.72%;}
+    #entergraydivh1{text-align:center; color:#5c646c !important; font-weight: 900;margin-top: 0% !important;font-size:12px !important; margin-left: -53.2%; line-height: 26px !important; letter-spacing:2.0px; font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important; font-weight:900;     font-stretch: condensed !important;}
     #enterseconddiv{ width: 125%; margin-left: -17%; height:556px; }
-    #enterimg{width: 640px; margin-left: 12.6%;}
+    #enterimg{width: 90%; margin-left: 5.6%;}
     #enterh3{color:#101E28 !important; letter-spacing:4px;  font-weight:100; margin: 5% 5% 3% 14%;  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; font-weight:200}
     #enterp1{margin:0% 1% 3% 14%; color:#5C646C !important; font-size:14px;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; line-height:28px;}
     #enterp{line-height:28px; margin:0% 1% 2% 14%;color:#5C646C !important;  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; font-size:14px;}
 
+    /* company */
+    #about {
+        width: 121%;
+        height: 750px; margin-left: -10%; margin-top: -2%;
+        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-inner {
+        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+    }
+
+    #about-title {
+        color: #5C646C !important;line-height: 60px;
+        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+    }
+
+
+    #about-desc {
+        opacity:1 !important; color: #5C646C !important;
+        font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;
+        line-height: 45px; margin: 5% 3% 3%;
+    }
+
+    #about-comp {
+        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+    }
+
+    #about-comp-desc-div {
+        width: 680px; margin-left: -24px;
+    }
+
+    #about-comp-desc {
+        color: #5C646C !important;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+        font-size: 20px;width: 110%;
+        line-height: 45px; margin: 12%;margin-top: 20%;
+    }
+
 }
 
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+    #video-background{margin-left: -13% !important;
+        margin-top: -31% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top:0px !important;}
+    a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
+
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+    #video-background{
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top:0px !important;}
+    a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
+}
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+    #video-background{
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top:0px !important;}
+    a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+    #video-background{width: 131% !important;
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top: 289px !important;
+        width: 125%;
+        margin-left: -16%;}
+    a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+    #video-background{width: 131% !important;
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top: 289px !important;
+        width: 125%;
+        margin-left: -16%;}
+    a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+    #video-background{width: 131% !important;
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top: 289px !important;
+        width: 125%;
+        margin-left: -16%;}
+    a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 1224px) {
+    #video-background{width: 131% !important;
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top: 289px !important;
+        width: 125%;
+        margin-left: -16%;}
+    a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+
+}
+
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1824px) {
+    #video-background{width: 131% !important;
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top: 289px !important;
+        width: 125%;
+        margin-left: -16%;}
+    a.video_pop_up img{margin-left: -10% !important; margin-top: -2%;}
+
+
+}
+
+/* iPhone 5 (portrait &amp; landscape)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+    #video-background{
+        margin-left: -13% !important;
+        margin-bottom: 22% !important;}
+
+    #mid{margin-top:0px !important;}
+    a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
+
+
+}
 
 
 
