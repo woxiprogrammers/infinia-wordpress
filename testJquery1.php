@@ -23,9 +23,9 @@ if (isset($_GET["action"]) && !empty($_GET["action"])) { //Checks if action valu
 	$mail->Port = 465;
 
 	$mail->setFrom('infadmin@infiniaretail.com', 'Infinia Retail');
-	$mail->addAddress('lalit.woxi@gmail.com', 'Sales');     // Add a recipient
-	$mail->addCC('bharat.woxi@gmail.com');
-	$mail->addCC('megha.woxi@gmail.com');
+	$mail->addAddress('sales@infiniaretail.com', 'Sales');     // Add a recipient
+//	$mail->addCC('bharat.woxi@gmail.com');
+//	$mail->addCC('megha.woxi@gmail.com');
 //	$mail->addCC('sandeep.patil@woxiprogrammers.com');
 	$mail->isHTML(true);                                  // Set email format to HTML
 
