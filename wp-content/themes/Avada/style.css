@@ -53526,7 +53526,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
     /* company */
     #about {
-        width: 121%;
+        width: 115%;
         height: 750px; margin-left: -10%; margin-top: -2%;
         background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
     }
@@ -53538,30 +53538,30 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #about-title {
         color: #5C646C !important;line-height: 60px;
         font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
-        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 13% 0%;
     }
 
 
     #about-desc {
         opacity:1 !important; color: #5C646C !important;
         font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;
+        font-size: 18px;
         line-height: 45px; margin: 5% 3% 3%;
     }
 
     #about-comp {
-        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+        margin-left: -10%; height: 300px; width: 340px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-comp-desc-div {
-        width: 680px; margin-left: -24px;
+        width: 680px; margin-left: 0px;
     }
 
     #about-comp-desc {
         color: #5C646C !important;
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
         font-size: 20px;width: 110%;
-        line-height: 45px; margin: 12%;margin-top: 20%;
+        line-height: 45px; margin: 2%;margin-top: 2%;
     }
 }
 
@@ -53773,7 +53773,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #about {
         width: 121%;
         height: 750px; margin-left: -10%; margin-top: -2%;
-        background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
+        background-image: url('assets/images/company_back.jpg'); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-inner {
@@ -53783,19 +53783,19 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #about-title {
         color: #5C646C !important;line-height: 60px;
         font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
-        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 14% 0%;
     }
 
 
     #about-desc {
         opacity:1 !important; color: #5C646C !important;
         font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;
-        line-height: 45px; margin: 5% 3% 3%;
+        font-size: 16px;
+        line-height: 45px; margin: 5% 4% 3%;
     }
 
     #about-comp {
-        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+        margin-left: -10%; height: 325px; width: 370px;background-image: url('assets/images/CEO.jpg'); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-comp-desc-div {
@@ -53805,8 +53805,9 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #about-comp-desc {
         color: #5C646C !important;
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;width: 110%;
-        line-height: 45px; margin: 12%;margin-top: 20%;
+        font-size: 16px;width: 110%;
+        line-height: 45px;
+        margin: 5%;
     }
 
 }
@@ -53994,7 +53995,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     }
 
     /* footer */
-    #footermain{height:260px;}
+    #footermain{height:345px;}
     #footerimgdiv{width:40%; float:left; margin-top: 70px;}
     #footerrightdiv{width:60%; float:left; margin-top: 125px;}
     #footerul{float:right; width: 100%;}
@@ -54025,42 +54026,59 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     /* company */
     #about {
         width: 121%;
-        height: 750px; margin-left: -10%; margin-top: -2%;
+        height: 600px; margin-left: -10%; margin-top: -2%;
         background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-inner {
-        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+        float:right; height:400px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
     }
 
     #about-title {
         color: #5C646C !important;line-height: 60px;
-        font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
-        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+        font-size:40px !important;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% 7% 0%;
     }
 
 
     #about-desc {
         opacity:1 !important; color: #5C646C !important;
         font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;
-        line-height: 45px; margin: 5% 3% 3%;
+        font-size: 16px;
+        line-height: 45px; margin: 5% 7% 3%;
     }
 
     #about-comp {
-        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+        margin-left: -10%; height: 320px; width: 380px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-comp-desc-div {
-        width: 680px; margin-left: -24px;
+        width: 470px; margin-left: -58px;
     }
 
     #about-comp-desc {
         color: #5C646C !important;
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;width: 110%;
-        line-height: 45px; margin: 12%;margin-top: 20%;
+        font-size: 16px;width: 110%;
+        line-height: 40px; margin: 3% 30% 12%;
     }
+
+   /** header fixed **/
+    .fusion-header{position:fixed;}
+    .backg{margin-top:-5.5%!important;height: 9.95%!important;}
+    .fusion-mobile-menu-icons a {
+    float: right;
+    font-size: 21px;
+    margin-left: 270px;
+    margin-top: 20px;
+   }
+   .fusion-mobile-nav-holder ul{margin:-9px 0px 0px 0px;}
+   .fusion-main-menu {
+    float: right;
+    position: relative;
+    z-index: 200;
+    margin-left: 220px;
+}
 }
 
 
@@ -54778,6 +54796,40 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
         font-size: 20px;width: 110%;
         line-height: 45px; margin: 12%;margin-top: 20%;
     }
+
+     /** header fixed **/
+    .fusion-header{position:fixed;}
+    .backg{    position: fixed;
+    margin-left: -40%;
+    width: 155%;
+    z-index: 99;
+    margin-top: -9%!important;
+    height: 20.95%!important;
+}
+    .fusion-mobile-menu-icons a {
+    float: right;
+    font-size: 21px;
+    margin-left:350px;
+    margin-top: 0px;
+   }
+   .fusion-logo img {
+    width: auto;
+    margin-top: 0% !important;
+}
+   #side-header .fusion-mobile-logo-1 .fusion-mobile-logo-1x, .fusion-mobile-logo-1 .fusion-mobile-logo-1x {
+    display: inline-block;
+    width: 180px;
+    height: auto;
+}
+.fusion-mobile-menu-icons {
+    margin-top: 0px;
+}
+.fusion-mobile-nav-holder ul {
+    list-style: outside none none;
+    margin: -10px 0px 0px 0px;
+    padding: 0px;
+} 
+    
 }
 
 
@@ -54981,30 +55033,30 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     /* company */
     #about {
         width: 121%;
-        height: 750px; margin-left: -10%; margin-top: -2%;
+        height: 300px; margin-left: -10%; margin-top: -2%;
         background-image: url(assets/images/company_back.jpg); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-inner {
-        float:right; height:500px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
+        float:right; height:300px; width:76%; background-color:#fff; margin-top: 9%; opacity:.7;
     }
 
     #about-title {
         color: #5C646C !important;line-height: 60px;
         font-size:48px;letter-spacing: 2.95px; font-family: 'HelveticaNeue-CondensedBold',Helvetica,Arial,sans-serif !important;
-        font-weight: 900;font-stretch: condensed !important;margin: 2% 21% 0%;
+        font-weight: 900;font-stretch: condensed !important;margin: 2% -21% 0%;
     }
 
 
     #about-desc {
         opacity:1 !important; color: #5C646C !important;
         font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;
-        line-height: 45px; margin: 5% 3% 3%;
+        font-size: 14px;
+        line-height: 29px; margin: 5% -27% 3%;
     }
 
     #about-comp {
-        margin-left: -10%; height: 510px; width: 550px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
+        margin-left: -10%; height: 510px; width: 630px;background-image: url(assets/images/CEO.jpg); background-size:100% 100%; background-repeat:no-repeat;
     }
 
     #about-comp-desc-div {
@@ -55014,9 +55066,37 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
     #about-comp-desc {
         color: #5C646C !important;
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
-        font-size: 20px;width: 110%;
-        line-height: 45px; margin: 12%;margin-top: 20%;
+        font-size: 15px;
+        width: 110%;
+        line-height: 45px;
+        margin:5%
     }
+    /** header fixed **/
+    .fusion-header{position:fixed;}
+    .backg{margin-top:-12.5%!important;}
+    .fusion-mobile-menu-icons a {
+    float: right;
+    font-size: 21px;
+    margin-left: 250px;
+    margin-top: -36px;
+   }
+   #side-header .fusion-mobile-logo-1 .fusion-mobile-logo-1x, .fusion-mobile-logo-1 .fusion-mobile-logo-1x {
+    display: inline-block;
+    width: 180px;
+    height: auto;
+}
+.fusion-mobile-menu-icons {
+    margin-top: 0px;
+}
+.fusion-mobile-nav-holder ul {
+    list-style: outside none none;
+    margin: -10px 0px 0px 0px;
+    padding: 0px;
+}
+.fusion-logo img {
+    width: auto;
+    margin-top: 0% !important;
+}
 
 }
 
@@ -55055,7 +55135,11 @@ and (max-width : 320px) {
 
     #mid{margin-top:0px !important;}
     a.video_pop_up img{margin-left: 50% !important; margin-top: -2%;}
-
+    .fusion-mobile-nav-holder ul {
+    list-style: outside none none;
+    margin: -20px 0px 0px;
+    padding: 0px;
+}
 
 }
 
