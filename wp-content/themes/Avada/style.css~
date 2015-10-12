@@ -3579,7 +3579,6 @@ body .portfolio-grid {
   -moz-transition: all 0.2s ease-in-out 0s;
   -o-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
-  /*background-image{url("assets/images/back-top.png")}*/
 }
 .no-totop #toTop {
   display: none !important;
