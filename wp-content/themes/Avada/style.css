@@ -53953,6 +53953,107 @@ font-weight: 100; line-height: 24px; color: #000 !important;margin-left:22%;}
 }
 
 
+@media only screen and (width:1024px) and (orientation:landscape){
+ #colBACKOFFICEmaindivp{margin-left:6px;}
+ #colBACKOFFICEmaindivlogo{margin-left: 9%;}
+ #colONLINEmaindivlogo{margin-left: 27%;}
+ #colONLINEmaindivp{margin-left: 10px;}
+ #pos-img {width: 55px;margin-top: -30%;}
+ #pos-text-header{font-size: 20.56px;margin-top: -12%;}
+ #pos-text{font-size: 13px !important;margin-top: 14%;}
+ #easiermaindiv,#easierrightdiv{margin-top: -1.5%;}
+ #easieroutdiv {height: 421px;}
+ #easierp{font-size: 13px;}
+ #betterrightdiv{width: 6% !important;}
+ #betterp{font-size: 13px; margin: 0% 3% 4% 14%;}
+ #betterrightimage{margin-right: 4%;}
+ #morefirstimg{margin-left: 8%;}
+ #moreh3{margin: -11% 5% 1% 24%;}
+ #morep{margin: 0% 0% 4% 24%;font-size: 13px;}
+ #digitalp{font-size: 13px;margin: 0% 4% 2% 14%;}
+ .hide-br{display:none;}
+ #digitalimage{margin-left: 24%;}
+ #footergray{height: 400px;}
+ #featurediv{height:150px;}
+ #footergrayemailsubdiv{margin-top: 5%;}
+ #footernumberbutton{margin-left: -82%;margin-top: 15%;}
+ #footercallusdiv{margin-top: -8.5%;}
+ #footercallusdivitalic{margin-left: -388px;}
+ #footergray{margin-top: -17%;}
+ #footercallbutton{width: 198px; margin-top: 38.1%;}
+}
+
+@media only screen and (width:966px){
+ /*#colBACKOFFICEmaindivp{margin-left:6px;}
+ #colBACKOFFICEmaindivlogo{margin-left: 9%;}
+ #colONLINEmaindivlogo{margin-left: 27%;}
+ #colONLINEmaindivp{margin-left: 10px;}
+ #pos-img {width: 55px;margin-top: -30%;}
+ #pos-text-header{font-size: 20.56px;margin-top: -12%;}
+ #pos-text{font-size: 13px !important;margin-top: 14%;}
+ #easiermaindiv,#easierrightdiv{margin-top: -1.5%;}
+ #easieroutdiv {height: 421px;}
+ #easierp{font-size: 13px;}
+ #betterrightdiv{width: 6% !important;}
+ #betterp{font-size: 13px; margin: 0% 3% 4% 14%;}
+ #betterrightimage{margin-right: 4%;}
+ #morefirstimg{margin-left: 8%;}
+ #moreh3{margin: -11% 5% 1% 24%;}
+ #morep{margin: 0% 0% 4% 24%;font-size: 13px;}
+ #digitalp{font-size: 13px;margin: 0% 4% 2% 14%;}
+ .hide-br{display:none;}
+ #digitalimage{margin-left: 24%;}
+ #footergray{height: 400px;}
+ #featurediv{height:150px;}
+ #footergrayemailsubdiv{margin-top: 5%;}
+ #footernumberbutton{margin-left: -82%;margin-top: 15%;}
+ #footercallusdiv{margin-top: -8.5%;}
+ #footercallusdivitalic{margin-left: -388px;}
+ #footergray{margin-top: -17%;}
+ #footercallbutton{width: 198px; margin-top: 38.1%;}*/
+ #selleasyp{margin-left: 17%;margin-top: -40%;}
+ #selleasyh3{margin-left: 23%;}
+ #playbuttondiv{margin-top: -11.5%;}
+ #emailouterdiv{margin-top: 12%;}
+ #emailinnerdiv{margin-left: 12%;}
+ #sellinstoreh1{margin-top: -5% !important;font-size: 33px !important;line-height: 40px;}
+ #sellinstorediv{height: 190px;}
+ #colPOSmaindivmainimage {height: 211px;}
+ #bg-video{height: 1010px !important;}
+ #colBACKOFFICEmaindiv,#colPOSmaindiv {margin-top: -25%;}
+ #colBACKOFFICEmaindivp{margin-left:6px;}
+ #colONLINEmaindivp{margin-left: 10px;}
+ #featurediv{height:150px;}
+ #pos-img {width: 50px;margin-top: -30%;}
+ #pos-text-header{font-size: 20.56px;margin-top: -12%;}
+ #pos-text{font-size: 13px !important;margin-top: 14%;}
+ #easiermaindiv,#easierrightdiv{margin-top: -1.5%;}
+ #easierrightimage{height: 500px;}
+ #easieroutdiv {height: 360px;}
+ #easierp{font-size: 13px;}
+ #easierrightdiv {width: 6.5% !important;float: left;clear: none;}
+ #easiermaindiv{width: 6% !important;}
+ #easierp{margin: 0% 0% 4% 20%;}
+ #easierh1{margin: -9% 5% 1% 20%;}
+ #betterimage {width: 500px;margin-left: 19%;}
+ #betterrighth3{margin: 5% 5% 3% 10%;}
+ #betterp{font-size: 13px;margin: 0% 8% 4% 10%;}
+ #betterrightimage{width: 11%;margin-right: 7%;}
+ #betterouterdiv{height: 480px;}
+ #moreinnerdiv,#moreouterdiv,#morerightimgae{height: 400px;}
+ #morefirstimg {width: 11%;margin-left: 8%;}
+ #moreh3{margin: -11% 5% 1% 20%;}
+ #morep{font-size: 13px;margin: 0% 0% 4% 20%;}
+ #digitalimage {margin-left: 23%;width: 82% !important;}
+ #digitalh1{margin: 5% 5% 3% 10%;}
+ #digitalp{font-size: 13px;margin: 0% 5% 2% 10%;}
+ #footergray{margin-top: -19%;height: 300px;}
+ #footergrayemailsubdiv{margin-top: 5%;}
+ #footercallbutton{width: 145px;margin-left: -431%; margin-top: 49.1%;}
+ #footercallusdiv {margin-top: -7%;}
+ #footernumberbutton{margin-top: 12%;margin-left: -81%;}
+}
+
 @media screen  and (orientation:landscape) and (max-width : 767px)   {
     #submenu{margin-left:23%;}
     #vid{margin-top: 22.5%; margin-left: 47%; height:75px !important;}
