@@ -52803,6 +52803,7 @@ line-height: 60px; letter-spacing:2.95px; font-family: 'HelveticaNeue-CondensedB
 
 /** Desktop Screen <1825px and >1280 **/
 @media screen  and (orientation:landscape) and (min-width : 1280px) and (max-width : 1824px)  {
+.selleasyp_de {font-size:30px !important;}
 #submenu{margin-left:23%;}
 #vid{margin-top: 22.5%; margin-left: 47%; height:75px !important;}
 #textdiv{margin-top:-45%;position:absolute; z-index:99; text-align:center; font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important; width:129% !important;}
