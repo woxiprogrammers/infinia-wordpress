@@ -53953,7 +53953,7 @@ font-weight: 100; line-height: 24px; color: #000 !important;margin-left:22%;}
 }
 
 
-@media only screen and (width:1024px){
+@media only screen and (width:1024px) and (orientation:landscape){
  #emailinnerdiv{margin-left: 3%;}
  #colBACKOFFICEmaindivp{margin-left:6px;}
  #colBACKOFFICEmaindivlogo{margin-left: 9%;}
