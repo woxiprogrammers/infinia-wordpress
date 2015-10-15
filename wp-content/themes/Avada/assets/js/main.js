@@ -30739,7 +30739,6 @@ jQuery( window ).load(function() {
 					}
 
 					jQuery( '.fusion-header-wrapper' ).addClass( 'fusion-is-sticky' );
-                    console.log("<900");
 					jQuery( window.$sticky_trigger ).css( 'top', $wp_adminbar_height );
 					$logo = jQuery( '.fusion-logo img:visible' );
 
