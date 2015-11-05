@@ -13208,12 +13208,130 @@ table {
 .vimeo-video {
   height:700px;
 }
-input{
+.vimeo-video-bg {
+  display:none;
+}
+.input-email {
   vertical-align: initial;
+  background-image: url(assets/images/email.png);
+  background-repeat: none;
+  background-position: 10px center;
+  background-repeat: no-repeat;
+  padding: 12px 10px 10px 40px!important;
+  width: 50%;
+  padding: 10px;
+  border:none; 
+  border-radius:4px;
+}
+
+.contact-me{
+  cursor: pointer;
+  padding: 9px 30px 10.5px 30px;
+  background-color: #B8E986;
+  border-radius:4px;
+  border:none;
+  color: #101E28 !important;
+  font-weight: 300;
+  font-size: 16px;
+  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+}
+
+.input-number{
+  cursor: pointer;
+  padding: 9px 30px 10.5px 30px;
+  margin-left: 15%;
+  background-color: #B8E986;
+  border-radius:4px;
+  border:none;
+  color: #101E28 !important;
+  font-weight: 300;
+  font-size: 16px;
+  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
 }
 
 .fusion-main-menu-search{
  display:none;
+}
+.play-button{
+ margin-left:66%;
+ margin-top: 30%;
+ margin-bottom: 40%;
+}
+.pos-text{
+  color: #969BA0 !important;
+  text-align: center;
+  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 20px;
+}
+.pos-logo{
+ margin-left: 35%;
+}
+.backoffice-logo{
+ margin-left: 11%;
+}
+.online-logo{
+ margin-left: 23%;
+}
+.bk-header{
+font-weight: 500;
+  font-size: 18px !important;
+  line-height: 14px !important;
+  color: rgb(92, 100, 108) !important;
+  font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important;"
+} 
+.subheader{
+ text-align:center; font-size: 24px !important;
+  line-height: 28px;
+  font-weight: 200;
+  letter-spacing: 1.29px;
+  font-family: 'HelveticaNeue-UltraLightItalic', Helvetica, Arial, sans-serif !important;color:#fff;
+}
+.main-header{
+  text-align: center;
+  color: #5c646c !important;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  letter-spacing: .95px;
+  font-family: 'HelveticaNeue-CondensedBold', Helvetica, Arial, sans-serif !important;
+  font-weight: 900;
+  font-stretch: condensed !important;
+}
+.pos-p{
+  color: #969BA0 !important;
+  text-align: left;
+  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 20px!important;
+  margin-left: 29%!important;
+}
+.backoffice-p{
+   color: #969BA0 !important;
+  text-align: left;
+  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 20px!important;
+  margin-left: 14%!important;
+}
+.online-p{
+   color: #969BA0 !important;
+  text-align: left;
+  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif !important;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 20px!important;
+  margin-left: 33%!important;
+}
+.easier-header{
+  font-family: 'HelveticaNeue-UltraLight', Helvetica, Arial, sans-serif !important;
+  font-size: 48px!important;
+  line-height: 0px!important;
+  font-weight: 200!important;
+  letter-spacing: 3px;
 }
 
 .textwidget li,.fusion-footer-widget-area ul li a{
@@ -13262,6 +13380,7 @@ input{
 }
 .fusion-main-menu > ul > li > a{
  color:#fff!important;
+ text-transform: uppercase;
 }
 .video-background{
  margin-top:-119px!important;
@@ -13290,11 +13409,21 @@ input{
   content: url(assets/images/ham.png);
 }
 
-@media screen and (max-width:1280px){
- .vimeo-video {
-  height:650px;
+.fusion-logo{
+  margin-top:11px!important;
 }
+
+.call-us-footer{
+  color: #000;
+  margin-top: 21px!important;
+  margin-left: 21%!important;
+  font-size: 20px;
+  font-size: 20px;
+  font-family: 'HelveticaNeue',Helvetica,Arial,sans-serif !important;
+  font-weight: 100;
+  line-height: 24px;
 }
+
 @media screen and (max-width:1024px){
  .customized-footer{
    height: 200px;
@@ -13304,12 +13433,196 @@ input{
   margin-right: 18px;
 }
 }
+@media screen and (max-width:1280px){
+ .vimeo-video {
+  display:none;
+}
+.vimeo-video-bg {
+  display:block;
+  margin-top: -99px;
+  height: 610px;
+}
+.play-button {
+  margin-left: 84%;
+  margin-top: 27%;
+  margin-bottom: 40%;
+}
+.call-us{
+  color: #000;
+  margin-top: 3%!important;
+  margin-left: 25%!important;
+  font-size: 20px;font-size: 20px;
+  font-family: 'HelveticaNeue',Helvetica,Arial,sans-serif !important;
+  font-weight: 100;
+  line-height: 24px;color:#fff;
+}
+.input-number {
+  margin-left: 18%;
+}
+.down-arrow{
+ margin-left: 66%;
+  margin-top: 45%;
+}
+.easier-header {
+  font-size: 40px!important;
+}
+.sell-p{
+  color: #fff !important;
+  font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important;
+  font-size: 35px;
+  font-weight: 500;
+  letter-spacing: 2.2px;
+  line-height: 27px;
+  text-align:center;
+  margin-top: 107px!important;
+}
+.input-email{
+ margin-left: 0%;
+ width: 50%;
+}
+.fusion-standard-logo.fusion-logo-2x{
+  max-height: 40px!important;
+  margin-top: 8px!important;
+}
+}
+@media screen and (max-width:980px){
+ .vimeo-video {
+  display:none;
+}
+.vimeo-video-bg {
+  display:block;
+  margin-top: -99px;
+  height: 610px;
+}
+.play-button {
+  margin-left: 44%;
+  margin-top: 0%;
+  margin-bottom: 3%;
+}
+.call-us{
+  color: #000;
+  margin-top: 3%!important;
+  margin-left: 41%!important;
+  font-size: 20px;font-size: 20px;
+  font-family: 'HelveticaNeue',Helvetica,Arial,sans-serif !important;
+  font-weight: 100;
+  line-height: 24px;color:#fff;
+}
+.input-number {
+  margin-left: 37%;
+}
+.down-arrow{
+ margin-left: 43%;
+  margin-top: 5%;
+}
+.main-header {
+    font-size: 40px;
+}
+.easier-header {
+  font-size: 40px!important;
+}
+.sell-p{
+  color: #fff !important;
+  font-family: 'BlairITC_Medium', BlairITC, Arial, sans-serif !important;
+  font-size: 35px;
+  font-weight: 500;
+  letter-spacing: 2.2px;
+  line-height: 27px;
+  text-align:center;
+  margin-top: 107px!important;
+}
+.input-email{
+ margin-left: 25%;
+ width: 30%;
+}
+.fusion-standard-logo.fusion-logo-2x{
+  max-height: 40px!important;
+  margin-top: 8px!important;
+}
+.input-email-footer{
+ margin-left: -12%;
+ width: 60%;
+}
+.input-number-footer {
+    margin-left: 6%;
+}
+}
+@media screen and (max-width:800px){
+.fusion-standard-logo.fusion-logo-2x {
+  max-height: 40px!important;
+  margin-top: -4px!important;
+}
+.sell-p {
+  font-size: 32px;
+}
+.easier-header {
+    font-size: 32px !important;
+}
+.bk-header{
+ font-size: 14px !important;
+}
+.backoffice-p {
+  font-size: 12px;
+}
+.main-header{
+  font-size: 34px;
+}
+.input-email-footer{
+ margin-left: -23%;
+ width: 80%;
+}
+.input-number-footer {
+    margin-left: 6%;
+}
+}
 @media screen and (max-width:480px){
+.sell-p {
+  font-size: 18px;
+}
   .customized-footer ul{
     margin-top: 10px;
 }
 .customized-footer li {
   font-size: 11px;
   margin-right: 6px;
+}
+.subheader{
+   font-size: 14px !important;
+}
+.input-email {
+  margin-left: 9%;
+  width: 50%;
+}
+.call-us {
+  margin-left: 38%!important;
+}
+.input-number {
+  margin-left: 30%;
+}
+.down-arrow {
+  margin-left: 41%;
+}
+.main-header {
+  font-size: 25px;
+   line-height: 27px;
+}
+.pos-logo {
+  margin-left: 42%;
+}
+.backoffice-logo {
+  margin-left: 27%;
+}
+.online-logo {
+  margin-left: 32%;
+}
+.img-div{
+  margin-left: 10%;
+}
+.customized-footer ul {
+  margin-top: 24px;
+  float: right;
+}
+.call-us-footer{
+  margin-left: 42%!important;
 }
 }
