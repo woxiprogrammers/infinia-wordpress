@@ -648,7 +648,7 @@ class SitePressLanguageSwitcher {
 
 		$items .= $language_name;
 		$items .= isset( $args->link_after ) ? $args->link_after : '';
-		$items .= '</a>';
+		$items .= '<img class="down-arrow" src="'.get_site_url().'/wp-content/uploads/2015/11/down-arrow.png"></a>';
 		$items .= isset( $args->after ) ? $args->after : '';
 		unset( $languages[ $current_language ] );
 		$items .= $this->render_ls_sub_items( $languages );
