@@ -6484,7 +6484,7 @@ Table of Contents
 /* Timeline elements */
 .fusion-timeline-line {
   position: absolute;
-  left: 50%;
+  left: 5%;
   top: 0;
   margin-left: -1px;
   height: 100%;
@@ -6497,6 +6497,7 @@ Table of Contents
   font-size: 46px;
   color: #ebeaea;
   text-align: center;
+    display:none;
 }
 .fusion-timeline-icon .fusionicon-bubbles {
   cursor: pointer;
@@ -6509,9 +6510,11 @@ Table of Contents
   width: 10px;
   border-radius: 50%;
   background-color: #efeeee;
+    display: none;
 }
 .fusion-timeline-arrow {
   position: absolute;
+    display:none;
 }
 .fusion-timeline-arrow:before {
   color: #E9EAEE;
@@ -6655,16 +6658,18 @@ Table of Contents
   float: left;
   clear: left;
   width: 40%;
+    margin-left: 15%;
 }
 .fusion-blog-layout-timeline .fusion-right-column {
-  float: right;
-  clear: right;
+  float: left;
+  clear: left;
   width: 40%;
+    margin-left: 15%;
 }
 .fusion-blog-layout-timeline .fusion-timeline-date {
   position: relative;
   clear: both;
-  margin: 0 auto 2px auto;
+  margin: 0;
   padding: 4px 0;
   width: 108px;
   line-height: 20px;
@@ -6683,8 +6688,8 @@ Table of Contents
   left: 100%;
 }
 .fusion-blog-layout-timeline .fusion-right-column .fusion-timeline-arrow {
-  right: 40%;
-  margin-right: -0.5px;
+  left: 40%;
+  margin-left: -0.5px;
 }
 .fusion-blog-layout-timeline .fusion-right-column .fusion-timeline-arrow:before {
   content: '\f0d9';
