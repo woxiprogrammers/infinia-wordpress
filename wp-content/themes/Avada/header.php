@@ -79,7 +79,7 @@
 	}
 	});
 	</script>
-
+	
 	<script src="<?php echo get_template_directory_uri(); ?>/assets/js/excanvas.js"></script>
 
 	<![endif]-->
@@ -119,6 +119,29 @@
 	<?php echo Avada()->settings->get( 'google_analytics' ); ?>
 
 	<?php echo Avada()->settings->get( 'space_head' ); ?>
+
+	<?php 
+	$uri_array =  explode("/",$_SERVER["REQUEST_URI"]);
+	if($uri_array[1] == "en") {
+	?> 
+        <style type="text/css" rel='stylesheet'>
+	.footer-de-visible{
+	      display:none;
+        }
+	.footer-en-visible {
+              display:block;
+	}
+	</style>
+	<?php } else { ?>
+	<style type="text/css" rel='stylesheet'>
+	.footer-de-visible{
+	      display:block;
+        }
+        .footer-en-visible {
+              display:none;
+	}
+	</style>
+	<?php } ?>
 </head>
 <?php
 $wrapper_class = '';
